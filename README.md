@@ -1,6 +1,6 @@
 Data-Professional-Survey-Breakdown
 
-The project deliverables consist of a PowerBI .pbix file and a PDF document.
+
 
 ## Steps Covered
 
